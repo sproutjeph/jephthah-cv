@@ -16,8 +16,7 @@ export const RESUME_DATA = {
     "Frontend Engineer focused on building products with extra attention to details",
   summary:
     "As a Frontend Engineer, I have successfully taken multiple products from 0 to production. I work mostly with Nextjs, TypeScript, Reactjs, Node.js, Tailwindcss and Supabase. I have over 3 years of experience in working remotely with companies all around the world.",
-  avatarUrl:
-    "https://jephthah-mbah-woad.vercel.app/_next/image?url=%2Fprofile-pic.jpg&w=384&q=95",
+  avatarUrl: "/images/profile-pic.jpeg",
   personalWebsiteUrl: "https://jephthah-mbah-woad.vercel.app/",
   contact: {
     email: "jephthah.mbah@outlook.com",
