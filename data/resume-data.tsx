@@ -66,8 +66,8 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Full Stack Developer",
       logo: StoveLogo,
-      start: "2015",
-      end: "2021",
+      start: "2022",
+      end: "2023",
       description:
         "Develop and maintain features for a dynamic food delivery app using Next.js and React. Implement responsive UI components with Tailwind CSS. Ensure code quality and maintainability through Typescript.",
     },
