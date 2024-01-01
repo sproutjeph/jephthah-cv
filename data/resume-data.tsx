@@ -71,6 +71,16 @@ export const RESUME_DATA = {
       description:
         "Develop and maintain features for a dynamic food delivery app using Next.js and React. Implement responsive UI components with Tailwind CSS. Ensure code quality and maintainability through Typescript.",
     },
+    {
+      company: "Freelancer.com",
+      link: "https://stovepos.com/",
+      badges: ["Remote"],
+      title: "Full Stack Developer",
+      logo: StoveLogo,
+      start: "2020",
+      end: "2022",
+      description: `Created a field-service application with Typescript and Reactjs. Gidyson- online - store: Developing, debugging and implementing new features on an E - commerce store.Technologies used Typescript, Nextjs, Redux, and React - Query   React and Nodejs - online food ordering Software.My part on this job was to develop the UI with Reactjs, Redux for clientstate management and React- Query for server state management Bug Fixing - Frontend projects.Debugging and helping other employees to go forward with their projects.`,
+    },
   ],
   skills: [
     "Nextjs",
