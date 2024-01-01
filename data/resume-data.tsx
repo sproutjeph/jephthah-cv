@@ -58,7 +58,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "Present",
       description:
-        "Crafted user-friendly, intuitive interfaces for proposition, prioritization, execution, and validation phases of tasks. Collaborated closely with designers and backend engineers to translate high-fidelity mockups into pixel-perfect, responsive UIs. Harnessed the power of Next.js 14, Tailwind CSS, Redux, Supabase, and TypeScript to build clean, efficient code.",
+        "Crafted user-friendly, intuitive interfaces for proposition, prioritization, execution, and validation phases of tasks. Collaborated closely with designers and backend engineers to translate high-fidelity mockups into pixel-perfect, responsive UIs. Harnessed the power of Nextjs 14, TailwindCSS, Redux, Supabase, and TypeScript to build clean, and efficient code",
     },
     {
       company: "Stove",
@@ -69,17 +69,17 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2023",
       description:
-        "Develop and maintain features for a dynamic food delivery app using Next.js and React. Implement responsive UI components with Tailwind CSS. Ensure code quality and maintainability through Typescript.",
+        "Develop and maintain features for a dynamic food delivery app using Next.js and React. Implement responsive UI components with Tailwind CSS. Ensure code quality and maintainability through Typescript",
     },
     {
       company: "Freelancer.com",
-      link: "https://stovepos.com/",
+      link: "https://freelancer.com/",
       badges: ["Remote"],
       title: "Full Stack Developer",
       logo: StoveLogo,
       start: "2020",
       end: "2022",
-      description: `Created a field-service application with Typescript and Reactjs. Gidyson- online - store: Developing, debugging and implementing new features on an E - commerce store.Technologies used Typescript, Nextjs, Redux, and React - Query   React and Nodejs - online food ordering Software.My part on this job was to develop the UI with Reactjs, Redux for clientstate management and React- Query for server state management Bug Fixing - Frontend projects.Debugging and helping other employees to go forward with their projects.`,
+      description: `Created a field-service application with Typescript and Reactjs. Gidyson-online-store: Developing, debugging and implementing new features on an E-commerce store, Technologies used Typescript, Nextjs, Redux, React-Query, React and Nodejs. Developed an online food ordering Software, my part on this job was to develop the UI with Reactjs, Redux for client state management and React-Query for server state management, Debugging and helping other employees to go forward with their projects`,
     },
   ],
   skills: [
@@ -92,6 +92,7 @@ export const RESUME_DATA = {
     "MongoDB",
     "Redux",
     "Tailwindcss",
+    "HTML Email Developer",
   ],
   projects: [
     {

@@ -124,8 +124,13 @@ export default function Page() {
                     {work.title}
                   </h4>
                 </CardHeader>
-                <CardContent className="mt-2 text-xs">
-                  {work.description}
+                <CardContent className="flex flex-col mt-2 space-y-1 text-xs">
+                  {work.description.split(".").map((jobDesc, i) => (
+                    <li className="flex gap-2" key={i}>
+                      <p>{i + 1}</p>
+                      <p>{jobDesc}</p>
+                    </li>
+                  ))}
                 </CardContent>
               </Card>
             );
