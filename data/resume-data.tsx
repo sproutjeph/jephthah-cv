@@ -92,6 +92,8 @@ export const RESUME_DATA = {
     "MongoDB",
     "Redux",
     "Tailwindcss",
+    "Git",
+    "MUI",
     "HTML Email Developer",
   ],
   projects: [
