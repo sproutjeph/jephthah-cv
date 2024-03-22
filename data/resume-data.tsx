@@ -144,5 +144,16 @@ export const RESUME_DATA = {
         href: "https://jephthah-mbah-woad.vercel.app/",
       },
     },
+    {
+      title: "Incented Protocol",
+      techStack: ["Supabase", "Next.js", "Typescript"],
+      description:
+        "A protocol for autonomous task creation, prioritization, validation, and incentivization to supercharge contribution across the Web3 ecosystem and beyond",
+      logo: IncentedLogo,
+      link: {
+        label: "https://incented.co/",
+        href: "https://incented.co/",
+      },
+    },
   ],
 } as const;
